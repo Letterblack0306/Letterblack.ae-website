@@ -1,0 +1,17 @@
+{
+    "name": "letterblack-website",
+    "version": "1.0.0",
+    "description": "Letterblack Creative Studio Website",
+    "main": "index.html",
+    "scripts": {
+        "dev": "npx http-server -p 8080 -o"
+    },
+    "keywords": [
+        "letterblack",
+        "website",
+        "creative",
+        "design"
+    ],
+    "author": "Letterblack Studio",
+    "license": "MIT"
+}
